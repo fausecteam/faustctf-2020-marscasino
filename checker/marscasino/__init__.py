@@ -1,0 +1,1 @@
+from .mychecker import MarsCasinoChecker
